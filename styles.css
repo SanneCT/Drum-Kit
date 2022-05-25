@@ -86,3 +86,22 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.link {
+  font-family: "Ubuntu";
+  font-size: 125%;
+  padding: 3%;
+}
+
+:any-link {
+color: #fff;
+
+}
+
+a:hover {
+color: #fff;
+}
+
+a {
+text-decoration: none;
+}
